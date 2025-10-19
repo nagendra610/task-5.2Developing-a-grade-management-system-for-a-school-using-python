@@ -1,0 +1,2 @@
+# task-5.2Developing-a-grade-management-system-for-a-school-using-python
+The system maintains a list of student records, where each record is represented as a dictionary containing a student's name and score. The school needs to generate a report that displays students' scores in ascending order. Your task is to implement a feature that sorts the student records by their scores using the Bubble Sort algorithm.
